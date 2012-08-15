@@ -1,0 +1,30 @@
+Adam: SYS App
+6-18-2012
+
+
+application live on the blog (integrate it into existing blog)
+
+ex.patio furniture and put it in your space
+
+
+custom application allow user to create there own space
+
+application will live independent from sears
+
+they want us to iframe it on sears environment(body area, ODL header and footer remains)
+
+
+Take a quiz before you get routed to the full application quiz page
+
+
+
+Launch: July 12th
+
+
+week of july 4th for integration 
+
+
+Jason:
+new template
+add widget
+

@@ -1,0 +1,103 @@
+Fields
+Type
+•	Bug
+•	New feature
+•	Improve
+•	task
+Priority 
+•	unset
+•	p1
+•	p2
+•	p3
+•	p4
+•	p5
+Affects Version/s/ fixed version
+•	label and same list
+Component/s
+•	Valid Values
+1.	Word Press
+2.	PHP
+3.	Plugin
+4.	Theme
+5.	Middleware
+PartsDirect: replace it with the following Websites:
+*Valid Values
+1.	Birthday Club
+2.	David Tutera
+3.	FitStudio Blog
+4.	FitStudio Gear
+5.	Kmart Fashion
+6.	MyGofer Blog
+7.	Playdate Place
+8.	Stylesip Fashion
+9.	Grilling is Happiness
+10.	Outdoor Style
+11.	UxBlog
+12.	Communities
+13.	Ux Porfolio
+14.	Elgin Photo Studio
+15.	Gamer
+16.	People's Pick
+Defect Environment
+•	Valid Values
+1.	Integration
+2.	QA
+3.	Production
+4.	Staging 
+Found in Phase
+1.	None
+2.	BA review
+3.	Development
+4.	Production
+5.	QA
+6.	UAT
+7.	Automation
+8.	N/A
+Team
+1.	BA
+2.	Front End
+3.	Back End
+4.	Business
+5.	Content Owners
+Story Number
+•	text field
+Business Owner
+*Valid Values
+1.	Birthday Club
+2.	David Tutera
+3.	FitStudio Blog
+4.	FitStudio Gear
+5.	Kmart Fashion
+6.	MyGofer Blog
+7.	Playdate Place
+8.	Stylesip Fashion
+9.	Grilling is Happiness
+10.	Outdoor Style
+11.	UxBlog
+12.	Communities
+13.	Ux Porfolio
+14.	Photo Studio
+15.	Gamer
+16.	People's Pick
+Status:
+•	Standard- Out of the box
+Resolution:
+•	Standard- Out of the box
+Assignee:
+•	Valid Values
+1.	Sebastian Frohm (sfrohm)
+2.	Dan Crimmins (dcrimmi)
+3.	Brendan Gualdoni (bguald0)
+4.	Hamid Shariff (hsharif)
+5.	Tim Steele (tsteel5)
+6.	Eddie Moya (emoya1)
+7.	Jason Corradino (jcorra4)
+8.	Carl Albrecht-Buehler (calbre1)
+Reporter-any valid jira user
+Dates- standard functionality
+Wacher- standard functionality
+Created- standard functionality
+Updated- standard functionality
+
+
+
