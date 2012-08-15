@@ -1,0 +1,44 @@
+<?xml version=1.0“ encoding=”UTF-8”?>
+<!DOCTYPE html PUBLIC “-//W3C//DTD HXTML 1.0 Transitional//EN”
+	“http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd”>
+<HTML xmlns=”http://www.w3.org/1999/xhtml”>
+<head>
+	<title>  </title>
+</head>
+<body>
+</body>
+</html>
+
+
+Background Color
+<body bgcolor="sky blue">
+<body background="casha.jpg"> orrr
+or you can do bgcolor="#000000"> rgb and you can just add numbers
+
+Add link: <a href="http://www.w3schools.com"> This is a link</a> <br />
+<hr />: Horizontal line
+Image: <img src="  .jpg or .jpeg" width="142" height="152"/> image has to be in the same folder as the webpage
+Crossout line: <strike> and </strike>
+Comment: <!—add something here -->
+Numeric(ol),bullets(ul): 
+<ol>       <li>PC </li>
+               <li>laptop</li>        </ol>
+Paragraph :<p>
+Headings: <h1> through <h6>
+Bold: <Strong>
+Italicize: <em>
+Underline: <u>
+Subscript: h<sub> 2</sub> 0    the 2
+Superscript: 28 <sup> degrees </sup>, the degree sign
+Center: <Center> in between text or within <p align=”center”> </p> and etc.
+Space: &nbsp
+Copyright: &copy
+Moving Text: <marquee> add text </ marquee>
+
+CSS: Style your page/ position
+--<div> </div> <div style="background:green; width:1000px; height:200px">
+<span> </span>… <span style=”font-style:bold”> </span>
+Table:
+--<table border=1> </table>
+<tr> table row
+<td> table dimension 
