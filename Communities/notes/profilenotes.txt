@@ -1,0 +1,32 @@
+Profile notes v2.
+
+page 1:
+
+activity will be cronological (so if you followed 5 things,you will see those 5)
+
+20 initially and 10 each load
+
+page 3:
+
+delete needs to be capitalized
+
+user can only delete his/her own question (refer to wires)
+
+
+page 10
+
+user profile: u arrive there by clicking the image and "username"
+remove gray line to the left of the ad unit
+
+right hand rail= FPO
+
+remove "last activity on sep 21, 2011"
+
+page 12:
+
+kill flag
+
+page 17
+
+remove images for Q&As
+

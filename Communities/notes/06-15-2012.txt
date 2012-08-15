@@ -1,0 +1,36 @@
+Jason:
+	Yesterday:
+	 	- researched kmf's next iteration:
+	 		- pulls data from instagram into wcs
+	 		- navigation lookbook
+	Today:
+		- Same
+		
+dan:
+	Yesterday:
+		- LDAP
+	Today:
+		- LDAP
+	
+harry:
+	Yesterday:
+		- studying
+	Today:
+		- studying some more
+	For Monday:
+		- FAQ
+		- About us
+	
+greentree:
+	Yesterday:
+		- profile integration
+	Today:
+		- profile integration
+	
+carl:
+	Yesterday:
+		- kenmore
+		- 960 skeletton
+			- translating to sass
+	Today:
+		- more kenmore
